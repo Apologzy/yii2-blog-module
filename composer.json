@@ -1,0 +1,21 @@
+{
+    "name": "apologzy/yii2-blog",
+    "description": "Blog module for yii2 ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","blog"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirill Shaporenko",
+            "email": "Shapor.k.l@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "apology\\blog\\": ""
+        }
+    }
+}
